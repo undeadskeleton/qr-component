@@ -1,0 +1,7 @@
+.main {
+   padding: 1.5rem;
+   text-align: center;
+   border-radius: 20px;
+   background-color: var(--color-white);
+   font-family: "Outfit", sans-serif;
+}

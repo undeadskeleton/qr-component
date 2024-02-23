@@ -1,0 +1,19 @@
+*,*::before,*::after{
+   box-sizing: border-box;
+}
+
+*{
+   margin:0;
+   padding:0;
+}
+
+body{
+   height:100vh;
+   padding-left:2rem;
+   padding-right:2rem;
+   background-color:var(--color-light-gray);;
+   display:flex;
+   align-items: center;
+   justify-content: center;
+}
+

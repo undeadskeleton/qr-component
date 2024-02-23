@@ -1,0 +1,21 @@
+:root{
+   /* Colors */
+  /* White (hsl) */
+  --color-white: hsl(0, 0%, 100%);
+  /* Light gray (hsl) */
+  --color-light-gray: hsl(212, 45%, 89%);
+  /* Grayish blue (hsl) */
+  --color-grayish-blue: hsl(220, 15%, 55%);
+  /* Dark blue (hsl) */
+  --color-dark-blue: hsl(218, 44%, 22%);
+
+}
+
+.container{
+   width:100%;
+}
+
+.section{
+   margin:1rem 0;
+}
+
